@@ -6,7 +6,7 @@ function Login() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const res = await fetch("https://projet-node-8uyc.onrender.com/api/password", {
+    const res = await fetch("/api/password", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
