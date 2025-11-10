@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "Maxence", "age": 18, "role": "Étudiant en informatique"},
+  {"id": 2, "name": "Ben", "age": 18, "role": "Étudiant en informatique"},
+  {"id": 3, "name": "Mark", "age": 18, "role": "Étudiant en informatique"},
+  {"id": 4, "name": "Michel", "age": 18, "role": "Étudiant en informatique"},
+  {"id": 5, "name": "Frank", "age": 18, "role": "Étudiant en informatique"}
+]
